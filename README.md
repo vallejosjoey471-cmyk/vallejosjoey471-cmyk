@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
@@ -9,7 +7,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Jojo</h1>
 
 ###
 
@@ -37,7 +35,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats : Single</h3>
 
 ###
 
